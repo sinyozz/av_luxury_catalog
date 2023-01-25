@@ -413,11 +413,14 @@ ol {
 }
 
 .inner-header {
-	padding: 39px 0;
+	padding: 25px 0;
+	
 }
 
 .inner-header .logo {
-	padding: 12px 0;
+	padding: 5px 0;
+	height: 130px;
+	width: 130px;
 }
 
 .inner-header .logo a {
@@ -425,8 +428,8 @@ ol {
 }
 
 .inner-header .advanced-search {
-	height: 50px;
-	border: 1px solid #ebebeb;
+	height: 30px;
+	border: 1px solid #1312120e;
 }
 
 .inner-header .advanced-search .category-btn {
